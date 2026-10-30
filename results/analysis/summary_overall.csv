@@ -1,0 +1,2 @@
+route,path,trial_count,cfg_bottleneck_bw_mbit,cfg_oneway_delay_ms,cfg_loss_pct_per_direction,ping_rtt_avg_ms_mean,ping_rtt_avg_ms_std,ping_loss_pct_mean,ping_loss_pct_std,udp_throughput_mbit_mean,udp_throughput_mbit_std,udp_loss_pct_mean,udp_loss_pct_std,udp_jitter_ms_mean,udp_jitter_ms_std,tcp_throughput_mbit_mean,tcp_throughput_mbit_std
+ALL_ROUTES,all candidate paths,36,,,,44.486007,12.811154,0.555556,2.323107,6.881462,1.510319,0.688889,1.016374,0.563772,0.144232,6.814641,1.802986
